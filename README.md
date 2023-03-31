@@ -1,10 +1,9 @@
 ###  Olá ! Sea Bienvenido a Mi Perfil.
 
+![Garc-Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=Garc-Luis&theme=tokyonight&show_icons=true)
 
 <div>
- <a href="https://github.com/Garc-Luis">
- <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Garc-Luis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garc-Luis&layout=compact&langs_count=7&theme=radical"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garc-Luis&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
