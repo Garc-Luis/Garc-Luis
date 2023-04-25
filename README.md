@@ -1,12 +1,5 @@
 ###  Olá ! Sea Bienvenido a Mi Perfil.
 
-![Garc-Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=Garc-Luis&theme=bear&show_icons=true)
-
-<div>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garc-Luis&layout=compact&langs_count=7&theme=bear"/>
-</div>
-
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
