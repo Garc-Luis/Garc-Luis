@@ -1,6 +1,5 @@
 ###  Olá ! Sea Bienvenido a Mi Perfil.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garc-Luis&show_icons=true&locale=en&layout=compact" alt="Garc-Luis" /></p>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
@@ -12,6 +11,8 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://camo.githubusercontent.com/d7822c80e002754626e9719822d8781abd9d3f154462c284a885221d73fca919/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6f66666963652d3336352e706e67">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg">
    </div>
+
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garc-Luis&show_icons=true&locale=en&layout=compact" alt="Garc-Luis" /></p>
 
   <h1 align="center">Redes Sociais</h1>
 <!--Contato-->
