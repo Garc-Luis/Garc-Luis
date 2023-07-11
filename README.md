@@ -12,11 +12,11 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg">
    </div>
 
-   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garc-Luis&show_icons=true&locale=en&layout=compact" alt="Garc-Luis" /></p>
-
   <h1 align="center">Redes Sociais</h1>
 <!--Contato-->
 <a href = "mailto:garcialuis080918@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luisgarcia-datanalytics1807/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+
+   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garc-Luis&show_icons=true&locale=en&layout=compact" alt="Garc-Luis" /></p>
