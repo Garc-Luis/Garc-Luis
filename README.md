@@ -1,5 +1,6 @@
 ###  Olá ! Sea Bienvenido a Mi Perfil.
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Garc-Luis&show_icons=true&locale=en&layout=compact" alt="Garc-Luis" /></p>
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
