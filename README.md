@@ -10,6 +10,9 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://camo.githubusercontent.com/eeb109bd1e4b0234d977a9fb6afc4f58ece07808c1d36da996d4dec914db3eaa/68747470733a2f2f63646e2e63646e6c6f676f2e636f6d2f6c6f676f732f6d2f31302f6d7973716c2e737667">
     <img align="center" height="30" width="40" alt="c-icon" src="https://camo.githubusercontent.com/d7822c80e002754626e9719822d8781abd9d3f154462c284a885221d73fca919/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6f66666963652d3336352e706e67">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg">
+    <img src="./images/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="./images/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="./images/javascript-original.svg"  title="JS" alt="JS" width="40" height="40"/>&nbsp;
    </div>
     
   
