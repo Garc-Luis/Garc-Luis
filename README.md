@@ -12,10 +12,14 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg">
    </div>
 
-  <h1 align="center">Redes Sociais</h1>
-<!--Contato-->
-<a href = "mailto:garcialuis080918@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luisgarcia-datanalytics1807/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+#### ¿Hablamos?☕️
+
+<p align="left">
+<a href="https://www.linkedin.com/in/luisgarcia-datanalytics1807/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Luis Alberto Garcia Corona" height="30" width="40" />linkedin</a>
+
+<a href="mailto:garcialuis080918@gmail.com " target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="carlos salvador díaz" height="30" width="40" />garcialuis080918@gmail.com</a>
+</p>
+
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 
