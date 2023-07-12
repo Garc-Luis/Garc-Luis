@@ -12,8 +12,6 @@
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg">
    </div>
 
-#### ¿Hablamos?☕️
-
 <p align="left">
 <a href="https://www.linkedin.com/in/luisgarcia-datanalytics1807/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Luis Alberto Garcia Corona" height="30" width="40"/>linkedin</a>
 <br>
