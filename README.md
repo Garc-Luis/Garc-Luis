@@ -1,5 +1,8 @@
 <h1 align="center">Olá 👋! Soy Luis Garcia</h1> 
 <h3 align="center">💻 Actualmente desenvolviendo conocimientos en las tecnologias de  Business Intelligence y Front End.</h3>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Garc-Luis&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true" alt="My github stats" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garc-Luis&theme=dracula&layout=compact&hide_border=true" />
 
 <h2>Contactamos?</h2>
 <h3>Podemos Falar em Portugues ou Espanhol.</h3>
